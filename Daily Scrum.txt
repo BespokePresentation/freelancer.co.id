@@ -1,0 +1,151 @@
+Schedule Scrum Master:
+1. Roberto (12.111.0766)
+Mulai tanggal : 23 Mei - 26 Mei 2016
+		Senin - Kamis
+
+2. Fransiska ()
+Mulai tanggal : 27 Mei - 31 Mei 2016
+		Jumat - Selasa
+
+3. Juandy Hartanto ()
+Mulai tanggal : 01 Juni - 05 Juni 2016
+		Rabu - Minggu
+
+
+--------------------------------------------------------------------------------
+Daily Scrum:
+--------------------------------------------------------------------------------
+
+Senin, tanggal 23 Mei 2016
+
+Roberto
+1. Kemarin mengerjakan apa?
+   Menginstall bespoke pada laptop dan komputer
+
+2. Apa yang akan dikerjakan hari ini?
+   Membuat akun github dan repository
+
+3. Ada masalah dalam pengerjaan tugas?
+   Github down, selalu muncul 404 Not Found page di github setelah buat repository
+
+Fransiska
+1. Kemarin mengerjakan apa?
+   Install bespoke
+
+2. Apa yang akan dikerjakan hari ini?
+   Mencari bahan presentasi
+
+3. Ada masalah dalam pengerjaan tugas?
+   Github down, tidak bisa push
+
+Juandy Hartanto
+1. Kemarin mengerjakan apa?
+   Install bespoke
+
+2. Apa yang akan dikerjakan hari ini?
+   Menclone repository global
+
+3. Ada masalah dalam pengerjaan tugas?
+   Tidak bisa clone, Github error
+
+-------------------------------------------------------------------------------
+
+Selasa, tanggal 24 Mei 2016
+
+Roberto
+1. Kemarin mengerjakan apa?
+   Membuat Github
+
+2. Apa yang akan dikerjakan hari ini?
+   Push Repository
+
+3. Ada masalah dalam pengerjaan tugas?
+   Tidak ada
+
+Fransiska
+1. Kemarin mengerjakan apa?
+   Cari bahan presentasi
+
+2. Apa yang akan dikerjakan hari ini?
+   Melengkapi bahan presentasi
+
+3. Ada masalah dalam pengerjaan tugas?
+   Tidak ada
+
+Juandy Hartanto
+1. Kemarin mengerjakan apa?
+   Clone Repository (gagal, githun down)
+
+2. Apa yang akan dikerjakan hari ini?
+   Clone Repository (berhasil)
+
+3. Ada masalah dalam pengerjaan tugas?
+   Tidak ada
+
+-------------------------------------------------------------------------------
+
+Rabu, tanggal 25 Mei 2016
+
+Roberto
+1. Kemarin mengerjakan apa?
+   Push Repository
+
+2. Apa yang akan dikerjakan hari ini?
+   Membuat trello dan mengundang anggota kelompok masuk dalam board
+
+3. Ada masalah dalam pengerjaan tugas?
+   Tidak ada
+
+Fransiska
+1. Kemarin mengerjakan apa?
+   Melengkapi bahan presentasi
+
+2. Apa yang akan dikerjakan hari ini?
+   Email hasil bahan presentasi ke anggota kelompok
+
+3. Ada masalah dalam pengerjaan tugas?
+   Tidak ada
+
+Juandy Hartanto
+1. Kemarin mengerjakan apa?
+   Clone Repository
+
+2. Apa yang akan dikerjakan hari ini?
+   Pelajari Stylus
+
+3. Ada masalah dalam pengerjaan tugas?
+   Tidak ada
+
+-------------------------------------------------------------------------------
+
+Kamis, tanggal 26 Mei 2016
+
+Roberto
+1. Kemarin mengerjakan apa?
+   
+
+2. Apa yang akan dikerjakan hari ini?
+   
+
+3. Ada masalah dalam pengerjaan tugas?
+   
+
+Fransiska
+1. Kemarin mengerjakan apa?
+  
+
+2. Apa yang akan dikerjakan hari ini?
+   
+
+3. Ada masalah dalam pengerjaan tugas?
+   
+
+Juandy Hartanto
+1. Kemarin mengerjakan apa?
+   
+
+2. Apa yang akan dikerjakan hari ini?
+   
+
+3. Ada masalah dalam pengerjaan tugas?
+   
