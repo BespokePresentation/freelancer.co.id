@@ -3,7 +3,7 @@ Schedule Scrum Master:
 Mulai tanggal : 23 Mei - 26 Mei 2016
 		Senin - Kamis
 
-2. Fransiska ()
+2. Fransiska (12.111.2333)
 Mulai tanggal : 27 Mei - 31 Mei 2016
 		Jumat - Selasa
 
@@ -122,30 +122,64 @@ Kamis, tanggal 26 Mei 2016
 
 Roberto
 1. Kemarin mengerjakan apa?
-   
+   Membuat trello dan mengundang anggota kelompok masuk dalam board
 
 2. Apa yang akan dikerjakan hari ini?
-   
+   Mempelajari data atau bahan presentasi
 
 3. Ada masalah dalam pengerjaan tugas?
-   
+   Tidak ada
 
 Fransiska
 1. Kemarin mengerjakan apa?
-  
+   Email hasil bahan presentasi ke anggota kelompok
 
 2. Apa yang akan dikerjakan hari ini?
-   
+   Menjelaskan bahan yang kurang dipahami oleh anggota   
 
 3. Ada masalah dalam pengerjaan tugas?
-   
+   Tidak ada   
 
 Juandy Hartanto
 1. Kemarin mengerjakan apa?
-   
+   Pelajari Stylus   
 
 2. Apa yang akan dikerjakan hari ini?
-   
+   Mempelajari sytlus lebih lanjut   
 
 3. Ada masalah dalam pengerjaan tugas?
-   
+   Tidak ada   
+
+-------------------------------------------------------------------------------
+
+Jumat, tanggal 27 Mei 2016
+
+Roberto
+1. Kemarin mengerjakan apa?
+   Mempelajari data atau bahan prsentasi
+
+2. Apa yang akan dikerjakan hari ini?
+   Melengkapi bahan yang kurang dari bahan presentasi   
+
+3. Ada masalah dalam pengerjaan tugas?
+   Tidak ada
+
+Fransiska
+1. Kemarin mengerjakan apa?
+   Menjelaskan bahan yang kurang dipahami oleh anggota dan melengkapi bahan presentasi
+
+2. Apa yang akan dikerjakan hari ini?
+   Menclone repository
+
+3. Ada masalah dalam pengerjaan tugas?
+   Tidak ada   
+
+Juandy Hartanto
+1. Kemarin mengerjakan apa?
+   Mempelajari stylus lebih lanjut   
+
+2. Apa yang akan dikerjakan hari ini?
+   Mempelajari bespoke-fx
+
+3. Ada masalah dalam pengerjaan tugas?
+   Tidak ada
