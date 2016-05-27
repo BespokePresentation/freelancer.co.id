@@ -7,6 +7,51 @@
 @import 'prism/themes/prism-okaidia.css'
 // Check out "bower_components/prism/themes/" for available themes
 
+article
+
+html, body
+	height 100%
+	font-size 100%
+	padding 0
+	margin 0
+
 body
-	color: black
-	
+	overflow hidden
+
+section
+	display none
+
+.bespoke-slide
+	display block
+
+.bespoke-parent
+	position relative
+	width 100%
+	height 100%
+	-webkit-perspective 1200px
+	-moz-perspective 1200px
+	perspective 1200px
+	overflow hidden
+
+.bespoke-slide
+	width 100%
+	height 100%
+	position absolute
+	top 240px
+	left 320px
+	visibility hidden
+	overflow hidden
+
+section.bespoke-slide
+	display block
+
+.bespoke-inactive
+	visibility hidden
+
+.bespoke-active
+	visibility visible
+	z-index 1
+
+.fx-transitioning-ing, 
+.fx-transitioning-out
+	visibility visible
