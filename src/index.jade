@@ -6,15 +6,16 @@ html
     title freelancer.co.id
 
     link(rel='stylesheet', type='text/css', href='build/build.css')
+    link(rel='stylesheet', type='text/css', href='build/animations.css')
 
   body
 
     article
 
-      section
-        h1 freelancer.co.id
+      section(data-bespoke-fx-transition='fall')
+        h1 Freelancer.co.id
 
-      section
+      section(data-bespoke-fx-transition='fall')
         h2 Keyboard Interaction
         h3 Powered by <a href="https://github.com/markdalgleish/bespoke-keys">bespoke-keys</a>
 
@@ -68,6 +69,7 @@ html
             strong Enjoy! :)
             a(href='http://twitter.com/markdalgleish')  -@markdalgleish
 
+    script(src='bower_components/modernizr/modernizr.js', type='text/javascript', charset='utf-8')
+    script(src='bower_components/bespoke.js/dist/bespoke.js')
+    script(src='bower_components/bespoke-fx/dist/bespoke-fx.js')
     script(src='build/build.js')
-    script(src='build/bespoke.js')
-    script(src='build/bespoke-fx.js')

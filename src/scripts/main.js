@@ -23,11 +23,15 @@ bespoke.from('article', [
   forms()
 ]);
 
+bespoke.horizontal.from('article', {
+  fx: true
+});
+
 // Prism syntax highlighting
 // This is actually loaded from "bower_components" thanks to
 // debowerify: https://github.com/eugeneware/debowerify
 require('prism');
 require('bespoke-fx');
-require('bespoke');
+require('bespoke.js');
 
-bespoke.from('article', { fx: { direction: "vertical", transition: "cube", reverse: true } });
+
