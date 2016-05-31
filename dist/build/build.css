@@ -157,9 +157,9 @@ section {
   left: 320px;
   visibility: hidden;
   overflow: hidden;
-  background: -webkit-linear-gradient(left top, #003264, #78b4ff);
-  background: -webkit-linear-gradient(top left, #003264, #78b4ff);
-  background: linear-gradient(to bottom right, #003264, #78b4ff);
+  background: -webkit-linear-gradient(left top, #00d2ff, #3a7bd5);
+  background: -webkit-linear-gradient(top left, #00d2ff, #3a7bd5);
+  background: linear-gradient(to bottom right, #00d2ff, #3a7bd5);
 }
 section.bespoke-slide {
   display: block;
@@ -180,7 +180,9 @@ h1 {
   font-weight: bold;
   letter-spacing: 6px;
   color: #fff;
+  -webkit-align-content: center;
 }
+align-content center,
 h2 {
   font-family: 'Lato-Thin', sans-serif;
   font-weight: normal;
@@ -198,4 +200,8 @@ p {
   font-weight: normal;
   letter-spacing: 3px;
   color: #fff;
+}
+#logo {
+  margin-top: 10%;
+  font-color: #fff;
 }
