@@ -126,6 +126,9 @@ body {
   font-size: 100%;
   padding: 0;
   margin: 0;
+  background: -webkit-linear-gradient(left top, #00d2ff, #3a7bd5);
+  background: -webkit-linear-gradient(top left, #00d2ff, #3a7bd5);
+  background: linear-gradient(to bottom right, #00d2ff, #3a7bd5);
 }
 @font-face {
   font-family: 'Lato-Thin';
