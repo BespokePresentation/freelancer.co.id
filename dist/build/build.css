@@ -181,7 +181,6 @@ section.bespoke-slide {
 h1 {
   font-family: 'Lato-Thin', sans-serif;
   font-weight: bold;
-  letter-spacing: 6px;
   color: #fff;
   -webkit-align-content: center;
 }
@@ -189,22 +188,62 @@ align-content center,
 h2 {
   font-family: 'Lato-Thin', sans-serif;
   font-weight: normal;
-  letter-spacing: 3px;
   color: #fff;
 }
 h3 {
   font-family: 'Lato-Thin', sans-serif;
   font-weight: normal;
-  letter-spacing: 3px;
   color: #fff;
 }
 p {
+  margin-top: 20px;
   font-family: 'Lato-Thin', sans-serif;
+  font-size: 20px;
   font-weight: normal;
-  letter-spacing: 3px;
   color: #fff;
 }
 #logo {
   margin-top: 10%;
-  font-color: #fff;
+}
+#link {
+  width: 200px;
+  height: 30px;
+  border-radius: 5px;
+  padding: 5px;
+  margin: auto;
+  background-color: #2980b9;
+}
+a {
+  color: #fff;
+}
+a:link {
+  color: #fff;
+  font-size: 16px;
+  font-family: 'Lato-Thin', sans-serif;
+}
+#textbox1 {
+  width: 50%;
+  height: auto;
+  margin: auto;
+  float: left;
+  text-align: center;
+}
+#textbox1 h2 {
+  text-align: center;
+}
+#textbox1 p {
+  line-height: 1.5em;
+}
+#textbox2 {
+  width: 50%;
+  height: auto;
+  margin: auto;
+  float: left;
+  text-align: center;
+}
+#textbox2 h2 {
+  text-align: center;
+}
+#textbox2 p {
+  line-height: 1.5em;
 }
