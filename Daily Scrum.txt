@@ -387,3 +387,37 @@ Juandy Hartanto
 
 3. Ada masalah dalam pengerjaan tugas?
    Tidak ada
+
+-------------------------------------------------------------------------------
+
+Kamis, tanggal 3 Juni 2016
+
+Roberto
+1. Kemarin mengerjakan apa?
+   Memasukkan bahan ke dalam slide presentasi
+
+2. Apa yang akan dikerjakan hari ini?
+   Melakukan percobaan bespoke-fx
+
+3. Ada masalah dalam pengerjaan tugas?
+   Bespoke-fx gagal untuk diaplikasikan
+
+Fransiska
+1. Kemarin mengerjakan apa?
+   Melengkapi bahan presentasi sebelumnya
+
+2. Apa yang akan dikerjakan hari ini?
+   Merangkum bahan yang akan dimasukkan ke slide presentasi (tidak di push ke github)
+
+3. Ada masalah dalam pengerjaan tugas?
+   Tidak ada
+
+Juandy Hartanto
+1. Kemarin mengerjakan apa?
+    Mengubah style dan transition yang dipelajari
+
+2. Apa yang akan dikerjakan hari ini?
+   Melakukan percobaan bespoke-fx
+
+3. Ada masalah dalam pengerjaan tugas?
+   Bespoke-fx gagal untuk diaplikasikan
