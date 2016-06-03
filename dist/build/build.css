@@ -7,14 +7,13 @@
 code[class*="language-"],
 pre[class*="language-"] {
 	color: #f8f8f2;
-	background: none;
 	text-shadow: 0 1px rgba(0, 0, 0, 0.3);
 	font-family: Consolas, Monaco, 'Andale Mono', 'Ubuntu Mono', monospace;
+	direction: ltr;
 	text-align: left;
 	white-space: pre;
 	word-spacing: normal;
 	word-break: normal;
-	word-wrap: normal;
 	line-height: 1.5;
 
 	-moz-tab-size: 4;
@@ -43,7 +42,6 @@ pre[class*="language-"] {
 :not(pre) > code[class*="language-"] {
 	padding: .1em;
 	border-radius: .3em;
-	white-space: normal;
 }
 
 .token.comment,
@@ -119,92 +117,9 @@ pre[class*="language-"] {
 	cursor: help;
 }
 
-article,
-html,
-body {
-  height: 100%;
-  font-size: 100%;
-  padding: 0;
-  margin: 0;
-  background: -webkit-linear-gradient(left top, #00d2ff, #3a7bd5);
-  background: -webkit-linear-gradient(top left, #00d2ff, #3a7bd5);
-  background: linear-gradient(to bottom right, #00d2ff, #3a7bd5);
-}
-@font-face {
-  font-family: 'Lato-Thin';
-  src: url("../dist/Lato2OFL/Lato-Thin.tff") format('truetype');
-}
-body {
-  font-family: 'Lato-Thin', sans-serif;
-  overflow: hidden;
-}
-section {
-  display: none;
-}
 .bespoke-slide {
-  display: block;
+  background: #000;
 }
-.bespoke-parent {
-  position: relative;
-  width: 100%;
-  height: 100%;
-  -webkit-perspective: 1200px;
-  perspective: 1200px;
-  overflow: hidden;
-}
-.bespoke-slide {
-  width: 100%;
-  height: 100%;
-  position: absolute;
-  top: 240px;
-  left: 320px;
-  visibility: hidden;
-  overflow: hidden;
-  background: -webkit-linear-gradient(left top, #00d2ff, #3a7bd5);
-  background: -webkit-linear-gradient(top left, #00d2ff, #3a7bd5);
-  background: linear-gradient(to bottom right, #00d2ff, #3a7bd5);
-}
-section.bespoke-slide {
-  display: block;
-}
-.bespoke-inactive {
-  visibility: hidden;
-}
-.bespoke-active {
-  visibility: visible;
-  z-index: 1;
-}
-.fx-transitioning-ing,
-.fx-transitioning-out {
-  visibility: visible;
-}
-h1 {
-  font-family: 'Lato-Thin', sans-serif;
-  font-weight: bold;
-  letter-spacing: 6px;
-  color: #fff;
-  -webkit-align-content: center;
-}
-align-content center,
-h2 {
-  font-family: 'Lato-Thin', sans-serif;
-  font-weight: normal;
-  letter-spacing: 3px;
-  color: #fff;
-}
-h3 {
-  font-family: 'Lato-Thin', sans-serif;
-  font-weight: normal;
-  letter-spacing: 3px;
-  color: #fff;
-}
-p {
-  font-family: 'Lato-Thin', sans-serif;
-  font-weight: normal;
-  letter-spacing: 3px;
-  color: #fff;
-}
-#logo {
-  margin-top: 10%;
-  font-color: #fff;
+* {
+  color: #eaeaea;
 }
