@@ -3,56 +3,76 @@ html
   head
     meta(charset='utf-8')
     meta(name='viewport', content='width=device-width, initial-scale=1, maximum-scale=1')
-    title One piece's crew
-
-    link(rel='stylesheet', href='build/main.css')
-    link(rel='stylesheet', href='build/animations.css')  
-    link(rel='stylesheet', href='build/style.css')  
+    title freelancer.co.id
+    link(rel='stylesheet', type='text/css', href='build/build.css')
+    link(rel='stylesheet', type='text/css', href='build/animations.css')
+    link(rel='stylesheet', type='text/css', href='build/themes.css')
 
   body
 
-    article
+    article.classic
 
-      section(data-bespoke-fx-transition="slide")
-        h1 Luffy and Nakama
+      section
+        #logo
+        img(src='images/logo freelancer.png')
+        
+        ul
+          li Roberto (121110766)
+          li Fransiska ()
+          li Juandy Hartanto (121110669)
 
-      section(data-bespoke-fx-transition="scale-down-out-move-in")
-        h1 Luffy
-        pre Monkey D. Luffy, also known as "Straw Hat Luffy". 
+      section
+        h2 Keyboard Interaction
+        h3 Powered by <a href="https://github.com/markdalgleish/bespoke-keys">bespoke-keys</a>
 
-      section(data-bespoke-fx-direction="vertical")
-        h1 Zoro
-        pre Roronoa Zoro, also known as "Pirate Hunter Zoro".
+      section
+        h2 Touch Interaction
+        h3 Powered by <a href="https://github.com/markdalgleish/bespoke-touch">bespoke-touch</a>
 
-      section(data-bespoke-fx-transition="scale-up-up")
-        h1 Nami
-        pre Nami is a young, normal-sized and slim girl.
+      section
+        h2 Responsive Slides
+        h3 Powered by <a href="https://github.com/markdalgleish/bespoke-scale">bespoke-scale</a>
 
-      section(data-bespoke-fx-transition="scale-down-up")
-        h1 Usopp
-        pre Usopp is the sniper. 
+      section
+        h2 Bullet List
+        h3.bullet Powered by <a href="https://github.com/markdalgleish/bespoke-bullets">bespoke-bullets</a>
+        ul
+          li Bullet 1
+          li Bullet 2
+          li Bullet 3
 
-      section(data-bespoke-fx-transition="glue")
-        h1 Sanji
-        pre "Black Leg" Sanji is a pirate and the cook. 
+      section
+        h2 Syntax Highlighting
+        h3 Powered by <a href="http://twitter.com/LeaVerou">Lea Verou</a>'s <a href="https://github.com/LeaVerou/prism">Prism</a>
+        pre
+          code.language-javascript.
+            bespoke.from('article', [
+              classes(),
+              keys(),
+              touch(),
+              bullets('li, .bullet')
+            ]);
 
-      section(data-bespoke-fx-transition="flip")
-        h1 Chopper
-        pre Tony Tony Chopper is the doctor. 
+      section(data-bespoke-hash='named-route')
+        h2 Named Route
+        h3 Powered by <a href="https://github.com/markdalgleish/bespoke-hash">bespoke-hash</a>
+        p Look up! This route has been named with a <em>'data-bespoke-hash'</em> attribute.
 
-      section(data-bespoke-fx-transition="fall")
-        h1 Robin
-        pre Nico Robin, is the archaeologist. 
+      section.emphatic-text(data-bespoke-backdrop='emphatic')
+        h2 Emphatic Slide!
+        h3 Powered by <a href="https://github.com/markdalgleish/bespoke-backdrop">bespoke-backdrop</a>
 
-      section(data-bespoke-fx-transition="newspaper")
-        h1 Franky
-        pre Franky is the shipwright.
+      section
+        h2.bullet Just the beginning...
+        br
+        ul
+          li Edit <a href="http://jade-lang.com/">Jade</a> markup in <em>'src/index.jade'</em>
+          li Edit <a href="http://learnboost.github.io/stylus/">Stylus</a> styles in <em>'src/styles/main.styl'</em>
+          li Edit JavaScript in <em>'src/scripts/main.js'</em>
+        br
+        ul
+          li
+            strong Enjoy! :)
+            a(href='http://twitter.com/markdalgleish')  -@markdalgleish
 
-      section(data-bespoke-fx-transition="push")
-        h1 Brook
-        pre Brook is the musician.
-
-    script(src='build/modernizr.custom.js')
-    script(src='build/bespoke.js')
-    script(src='build/bespoke-fx.js')
-    script(src='build/script.js')
+    script(src='build/build.js')

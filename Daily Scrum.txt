@@ -1,0 +1,389 @@
+Schedule Scrum Master:
+1. Roberto (12.111.0766)
+Mulai tanggal : 23 Mei - 26 Mei 2016
+		Senin - Kamis
+
+2. Fransiska (12.111.2333)
+Mulai tanggal : 27 Mei - 31 Mei 2016
+		Jumat - Selasa
+
+3. Juandy Hartanto (12.111.0669)
+Mulai tanggal : 01 Juni - 05 Juni 2016
+		Rabu - Minggu
+
+
+--------------------------------------------------------------------------------
+Daily Scrum:
+--------------------------------------------------------------------------------
+
+Senin, tanggal 23 Mei 2016
+
+Roberto
+1. Kemarin mengerjakan apa?
+   Menginstall bespoke pada laptop dan komputer
+
+2. Apa yang akan dikerjakan hari ini?
+   Membuat akun github dan repository
+
+3. Ada masalah dalam pengerjaan tugas?
+   Github down, selalu muncul 404 Not Found page di github setelah buat repository
+
+Fransiska
+1. Kemarin mengerjakan apa?
+   Install bespoke
+
+2. Apa yang akan dikerjakan hari ini?
+   Mencari bahan presentasi
+
+3. Ada masalah dalam pengerjaan tugas?
+   Github down, tidak bisa push
+
+Juandy Hartanto
+1. Kemarin mengerjakan apa?
+   Install bespoke
+
+2. Apa yang akan dikerjakan hari ini?
+   Menclone repository global
+
+3. Ada masalah dalam pengerjaan tugas?
+   Tidak bisa clone, Github error
+
+-------------------------------------------------------------------------------
+
+Selasa, tanggal 24 Mei 2016
+
+Roberto
+1. Kemarin mengerjakan apa?
+   Membuat Github
+
+2. Apa yang akan dikerjakan hari ini?
+   Push Repository
+
+3. Ada masalah dalam pengerjaan tugas?
+   Tidak ada
+
+Fransiska
+1. Kemarin mengerjakan apa?
+   Cari bahan presentasi
+
+2. Apa yang akan dikerjakan hari ini?
+   Melengkapi bahan presentasi
+
+3. Ada masalah dalam pengerjaan tugas?
+   Tidak ada
+
+Juandy Hartanto
+1. Kemarin mengerjakan apa?
+   Clone Repository (gagal, githun down)
+
+2. Apa yang akan dikerjakan hari ini?
+   Clone Repository (berhasil)
+
+3. Ada masalah dalam pengerjaan tugas?
+   Tidak ada
+
+-------------------------------------------------------------------------------
+
+Rabu, tanggal 25 Mei 2016
+
+Roberto
+1. Kemarin mengerjakan apa?
+   Push Repository
+
+2. Apa yang akan dikerjakan hari ini?
+   Membuat trello dan mengundang anggota kelompok masuk dalam board
+
+3. Ada masalah dalam pengerjaan tugas?
+   Tidak ada
+
+Fransiska
+1. Kemarin mengerjakan apa?
+   Melengkapi bahan presentasi
+
+2. Apa yang akan dikerjakan hari ini?
+   Email hasil bahan presentasi ke anggota kelompok
+
+3. Ada masalah dalam pengerjaan tugas?
+   Tidak ada
+
+Juandy Hartanto
+1. Kemarin mengerjakan apa?
+   Clone Repository
+
+2. Apa yang akan dikerjakan hari ini?
+   Pelajari Stylus
+
+3. Ada masalah dalam pengerjaan tugas?
+   Tidak ada
+
+-------------------------------------------------------------------------------
+
+Kamis, tanggal 26 Mei 2016
+
+Roberto
+1. Kemarin mengerjakan apa?
+   Membuat trello dan mengundang anggota kelompok masuk dalam board
+
+2. Apa yang akan dikerjakan hari ini?
+   Mempelajari data atau bahan presentasi
+
+3. Ada masalah dalam pengerjaan tugas?
+   Tidak ada
+
+Fransiska
+1. Kemarin mengerjakan apa?
+   Email hasil bahan presentasi ke anggota kelompok
+
+2. Apa yang akan dikerjakan hari ini?
+   Menjelaskan bahan yang kurang dipahami oleh anggota   
+
+3. Ada masalah dalam pengerjaan tugas?
+   Tidak ada   
+
+Juandy Hartanto
+1. Kemarin mengerjakan apa?
+   Pelajari Stylus   
+
+2. Apa yang akan dikerjakan hari ini?
+   Mempelajari sytlus lebih lanjut   
+
+3. Ada masalah dalam pengerjaan tugas?
+   Tidak ada   
+
+-------------------------------------------------------------------------------
+
+Jumat, tanggal 27 Mei 2016
+
+Roberto
+1. Kemarin mengerjakan apa?
+   Mempelajari data atau bahan prsentasi
+
+2. Apa yang akan dikerjakan hari ini?
+   Melengkapi bahan yang kurang dari bahan presentasi   
+
+3. Ada masalah dalam pengerjaan tugas?
+   Tidak ada
+
+Fransiska
+1. Kemarin mengerjakan apa?
+   Menjelaskan bahan yang kurang dipahami oleh anggota dan melengkapi bahan presentasi
+
+2. Apa yang akan dikerjakan hari ini?
+   Menclone repository
+
+3. Ada masalah dalam pengerjaan tugas?
+   Tidak ada   
+
+Juandy Hartanto
+1. Kemarin mengerjakan apa?
+   Mempelajari stylus lebih lanjut   
+
+2. Apa yang akan dikerjakan hari ini?
+   Mempelajari bespoke-fx
+
+3. Ada masalah dalam pengerjaan tugas?
+   Tidak ada
+
+-------------------------------------------------------------------------------
+
+Sabtu, tanggal 28 Mei 2016
+
+Roberto
+1. Kemarin mengerjakan apa?
+   Melengkapi bahan yang kurang dari bahan presentasi
+
+2. Apa yang akan dikerjakan hari ini?
+   Melengkapi bahan yang kurang dan membuat powerpoint(tidak di push ke github)   
+
+3. Ada masalah dalam pengerjaan tugas?
+   Tidak ada
+
+Fransiska
+1. Kemarin mengerjakan apa?
+   Menclone repository
+
+2. Apa yang akan dikerjakan hari ini?
+   Memilah-milah bahan yang dikumpulkan dan dimasukkan ke power point( tidak di push)
+
+3. Ada masalah dalam pengerjaan tugas?
+   Tidak ada   
+
+Juandy Hartanto
+1. Kemarin mengerjakan apa?
+   Mempelajari bespoke-fx  
+
+2. Apa yang akan dikerjakan hari ini?
+   Mempelajari dan melakukan percobaan slide layar penuh
+
+3. Ada masalah dalam pengerjaan tugas?
+   Tidak ada
+
+-------------------------------------------------------------------------------
+
+Minggu, tanggal 29 Mei 2016
+
+Roberto
+1. Kemarin mengerjakan apa?
+   Melengkapi bahan yang kurang dan membuat powerpoint(tidak di push ke github)
+
+2. Apa yang akan dikerjakan hari ini?
+   Melengkapi bahan yang kurang dan membuat powerpoint(tidak di push ke github)   
+
+3. Ada masalah dalam pengerjaan tugas?
+   Tidak ada
+
+Fransiska
+1. Kemarin mengerjakan apa?
+   Memilah-milah bahan yang dikumpulkan dan dimasukkan ke power point( tidak di push)
+
+2. Apa yang akan dikerjakan hari ini?
+   Menambah bahan yang kurang dan mendiskusikan hasil bahan yang telah dikumpulkan
+
+3. Ada masalah dalam pengerjaan tugas?
+   Tidak ada   
+
+Juandy Hartanto
+1. Kemarin mengerjakan apa?
+   Mempelajari dan melakukan percobaan slide layar penuh 
+
+2. Apa yang akan dikerjakan hari ini?
+   Melakukan perbaikan dari percobaan font
+
+3. Ada masalah dalam pengerjaan tugas?
+   Tidak ada
+
+-------------------------------------------------------------------------------
+
+Senin, tanggal 30 Mei 2016
+
+Roberto
+1. Kemarin mengerjakan apa?
+   Melengkapi bahan yang kurang dan membuat powerpoint(tidak di push ke github)
+
+2. Apa yang akan dikerjakan hari ini?
+   membuat powerpoint(tidak di push ke github)   
+
+3. Ada masalah dalam pengerjaan tugas?
+   Tidak ada
+
+Fransiska
+1. Kemarin mengerjakan apa?
+   Menambah bahan yang kurang dan mendiskusikan hasil bahan yang telah dikumpulkan
+
+2. Apa yang akan dikerjakan hari ini?
+   Mempelajari bahan yang ada
+
+3. Ada masalah dalam pengerjaan tugas?
+   Tidak ada   
+
+Juandy Hartanto
+1. Kemarin mengerjakan apa?
+   Melakukan perbaikan dari percobaan font
+
+2. Apa yang akan dikerjakan hari ini?
+   Melakukan perbaikan dari percobaan font
+
+3. Ada masalah dalam pengerjaan tugas?
+   Tidak ada
+
+-------------------------------------------------------------------------------
+
+Selasa, tanggal 31 Mei 2016
+
+Roberto
+1. Kemarin mengerjakan apa?
+   membuat powerpoint(tidak di push ke github)
+
+2. Apa yang akan dikerjakan hari ini?
+   membuat powerpoint(tidak di push ke github)   
+
+3. Ada masalah dalam pengerjaan tugas?
+   Tidak ada
+
+Fransiska
+1. Kemarin mengerjakan apa?
+   Mempelajari bahan yang ada
+
+2. Apa yang akan dikerjakan hari ini?
+   Mempelajari bahan yang ada
+
+3. Ada masalah dalam pengerjaan tugas?
+   Tidak ada   
+
+Juandy Hartanto
+1. Kemarin mengerjakan apa?
+   Melakukan perbaikan dari percobaan font
+
+2. Apa yang akan dikerjakan hari ini?
+   Mempelajari tentang stylus lebih lanjut   
+
+3. Ada masalah dalam pengerjaan tugas?
+   Tidak ada
+
+-------------------------------------------------------------------------------
+
+Rabu, tanggal 1 Juni 2016
+
+Roberto
+1. Kemarin mengerjakan apa?
+   Membuat powerpoint(tidak di push ke github)
+
+2. Apa yang akan dikerjakan hari ini?
+   Membuat powerpoint(tidak di push ke github)
+
+3. Ada masalah dalam pengerjaan tugas?
+   Tidak ada
+
+Fransiska
+1. Kemarin mengerjakan apa?
+   Mempelajari bahan yang ada
+
+2. Apa yang akan dikerjakan hari ini?
+   Melengkapi bahan presentasi sebelumnya
+
+3. Ada masalah dalam pengerjaan tugas?
+   Tidak ada
+
+Juandy Hartanto
+1. Kemarin mengerjakan apa?
+   Mempelajari tentang stylus lebih lanjut   
+
+2. Apa yang akan dikerjakan hari ini?
+   Percobaan stylus yang telah dipelajari
+
+3. Ada masalah dalam pengerjaan tugas?
+   Tidak ada
+
+-------------------------------------------------------------------------------
+
+Kamis, tanggal 2 Juni 2016
+
+Roberto
+1. Kemarin mengerjakan apa?
+   Membuat powerpoint(tidak di push ke github)
+
+2. Apa yang akan dikerjakan hari ini?
+   Memasukkan bahan ke dalam slide presentasi
+
+3. Ada masalah dalam pengerjaan tugas?
+   Tidak ada
+
+Fransiska
+1. Kemarin mengerjakan apa?
+   Melengkapi bahan presentasi sebelumnya
+
+2. Apa yang akan dikerjakan hari ini?
+   Melengkapi bahan presentasi sebelumnya
+
+3. Ada masalah dalam pengerjaan tugas?
+   Tidak ada
+
+Juandy Hartanto
+1. Kemarin mengerjakan apa?
+    Percobaan stylus yang telah dipelajari
+
+2. Apa yang akan dikerjakan hari ini?
+   Mengubah style dan transition yang dipelajari
+
+3. Ada masalah dalam pengerjaan tugas?
+   Tidak ada
