@@ -3,9 +3,10 @@ html
   head
     meta(charset='utf-8')
     meta(name='viewport', content='width=device-width, initial-scale=1, maximum-scale=1')
-    title freelancer.co.id
+    title Freelancer
     link(rel='stylesheet', type='text/css', href='build/build.css')
     link(rel='stylesheet', type='text/css', href='build/themes.css')
+    link(rel='stylesheet', type='text/css', href='build/main.css')
 
   body
 
@@ -14,7 +15,6 @@ html
       section
         #logo
         img(src='images/logo freelancer.png')
-        br
         br
         br
         br
@@ -41,7 +41,7 @@ html
 
       section
         #slide
-          h1 Siapa yang terlibat dalam freelancer?
+          h1 Siapa yang terlibat dalam Freelancer?
           br
           br
           #textbox1
@@ -59,43 +59,58 @@ html
           h1 Apa yang diperjualbelikan?
           br
           h2 Pekerjaan
-          br
           p Jenis pekerjaan yang disediakan dalam freelancer.co.id :
           img(src='images/job.jpg')
 
       section
-        
-      section
-        h2 Syntax Highlighting
-        h3 Powered by <a href="http://twitter.com/LeaVerou">Lea Verou</a>'s <a href="https://github.com/LeaVerou/prism">Prism</a>
-        pre
-          code.language-javascript.
-            bespoke.from('article', [
-              classes(),
-              keys(),
-              touch(),
-              bullets('li, .bullet')
-            ]);
-
-      section(data-bespoke-hash='named-route')
-        h2 Named Route
-        h3 
-
-      section.emphatic-text(data-bespoke-backdrop='emphatic')
-        h2 Emphatic Slide!
-        h3 Powered by <a href="https://github.com/markdalgleish/bespoke-backdrop">bespoke-backdrop</a>
+        img(src='images/job ti.jpg')
 
       section
-        h2.bullet Just the beginning...
-        br
-        ul
-          li Edit <a href="http://jade-lang.com/">Jade</a> markup in <em>'src/index.jade'</em>
-          li Edit <a href="http://learnboost.github.io/stylus/">Stylus</a> styles in <em>'src/styles/main.styl'</em>
-          li Edit JavaScript in <em>'src/scripts/main.js'</em>
-        br
-        ul
-          li
-            strong Enjoy! :)
-            a(href='http://twitter.com/markdalgleish')  -@markdalgleish
+        #slide
+          h1 Bagaimana cara kerjanya?
+          br
+          h3
+            ul
+              li 1.	Employer Posting Proyek
+              li 2.	Para freelancer menawarkan jasanya pada proyek tersebut (bidding)
+              li 3. Employer memilih freelancer di antara sekian banyak penawar (bidder)
+              li 4.	Employer membuat pembayaran milestones (tanda jadi) sesuai permintaan freelancer
+              li 5.	Freelancer menyerahkan hasil kerjaan ke employer
+              li 6.	Employer merilis milestones
+              li 7.	Employer mendapatkan hasil pekerjaannya, Freelancer mendapatkan bayarannya
+
+      section
+        img(src='images/contoh kasus.jpg')
+
+      section
+        h1 Bagaimana transaksi pembayaran dilakukan?
+          br
+          br
+          #textbox1
+            h2 Untuk Employer
+            p Bisa membuat pembayaran milestones yang nantinya diterima oleh si freelancer melalui kartu kredit, PayPal ataupun Skrill.
+           
+          #textbox2
+            h2 Untuk Freelancer
+            p Bisa menerima pembayaran melalui Paypal atau Skrill.
+
+          #textbox3
+            h2 Antara Employer dan Freelancer
+            p Dana pembayaran tanda jadi (milestones payment) yang ditahan oleh pihak Freelancer.com dan dirilis di akhir proyek oleh employer akan dikreditkan masuk ke dalam saldo akun si freelancer di situs Freelancer.com.
+
+      section
+        h1 Menjadi Freelancer di Freelancer.co.id
+          br
+          h3
+            ul
+              li 1.	Gratis menjadi anggota dalam freelancer.co.id
+              li 2.	Lengkapi profil anda seperti Pendidikan, Pengalaman kerja, Sertifikat, Portofolio, dan Keahlian/Skill anda
+              li 3. Cari proyek di Freelancer sesuai keahlian anda
+              li 4.	Pastikan proposal Anda berisi kata-kata yang langsung pada kasus proyek yang diminta oleh employer
+              li 5.	Jatah bid untuk anggota GRATIS adalah maksimum 10 bid dalam sebulan
+
+      section
+        #lastpage
+         h1 Sekian dan Terima Kasih
 
     script(src='build/build.js')
