@@ -11,7 +11,8 @@ Mulai tanggal : 27 Mei - 31 Mei 2016
 Mulai tanggal : 01 Juni - 05 Juni 2016
 		Rabu - Minggu
 
-
+Link trello : https://trello.com/b/LhpYfthl/freelancer-com
+Link Github : https://github.com/BespokePresentation/freelancer.co.id
 --------------------------------------------------------------------------------
 Daily Scrum:
 --------------------------------------------------------------------------------
